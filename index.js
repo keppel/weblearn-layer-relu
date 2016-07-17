@@ -1,6 +1,7 @@
 'use strict'
 
-const { Module, Tensor } = require('weblearn')
+const Module = require('weblearn-module')
+const Tensor = require('weblearn-tensor')
 const old = require('old')
 
 
